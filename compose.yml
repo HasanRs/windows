@@ -4,9 +4,9 @@ services:
     container_name: windows
     environment:
       VERSION: "11"
-      DISK_SIZE: "120G"
-      RAM_SIZE: "58G"
-      CPU_CORES: "12"
+      DISK_SIZE: "100G"
+      RAM_SIZE: "56G"
+      CPU_CORES: "10"
       USERNAME: "leodijital"
       PASSWORD: "3002236Leo"
       LANGUAGE: "Turkish"
